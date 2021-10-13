@@ -11,5 +11,12 @@ namespace Player {
                 Destroy(gameObject);
             }
         }
+
+        private void OnTriggerEnter(Collider other) {
+            if (other.gameObject.CompareTag("Player")) {
+                Instantiate(_particles, transform.position, Quaternion.identity);
+                Destroy(gameObject);
+            }
+        }
     }
 }

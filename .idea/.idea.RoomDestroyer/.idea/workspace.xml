@@ -8,10 +8,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Imports/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ThirdPersonControllerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PropCollector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManagerScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ShockwaveScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ThirdPersonAnimation.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1z7w6afnvEiuALI1oyiuY7E39Pz" />
   <component name="ProjectViewState">
@@ -75,6 +75,8 @@
       <workItem from="1633979323433" duration="4579000" />
       <workItem from="1634021652952" duration="2973000" />
       <workItem from="1634024824667" duration="2450000" />
+      <workItem from="1634045458478" duration="11009000" />
+      <workItem from="1634112215723" duration="743000" />
     </task>
     <servers />
   </component>

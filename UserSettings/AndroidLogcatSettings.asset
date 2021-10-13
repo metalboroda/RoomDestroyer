@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "ge4xhiukj79xpzcu",
         "name": "com.DefaultCompany.RoomDestroyer",
-        "processId": 11822,
+        "processId": 8684,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,12 @@
             "deviceId": "ge4xhiukj79xpzcu",
             "name": "com.DefaultCompany.RoomDestroyer",
             "processId": 11822,
+            "exited": false
+        },
+        {
+            "deviceId": "ge4xhiukj79xpzcu",
+            "name": "com.DefaultCompany.RoomDestroyer",
+            "processId": 8684,
             "exited": false
         }
     ],

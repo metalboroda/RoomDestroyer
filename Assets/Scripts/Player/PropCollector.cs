@@ -21,5 +21,12 @@ namespace Player {
                 addScore.Invoke(scoreIncrease);
             }
         }
+
+        private void OnTriggerEnter(Collider other) {
+            if (other.gameObject.CompareTag("Prop")) {
+                scoreIncrease++;
+                addScore.Invoke(scoreIncrease);
+            }
+        }
     }
 }
